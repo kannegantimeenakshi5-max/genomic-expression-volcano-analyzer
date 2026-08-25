@@ -1,1 +1,1 @@
-# genomic-expression-volcano-analyzer
+An interactive bioinformatics dashboard built using Python, SciPy, and Plotly to perform differential gene expression analysis. It calculates Student t-tests and Log2 fold changes on transcriptomic matrices to detect and visualize candidate biomarkers via publication-ready dynamic volcano plots.
